@@ -1,4 +1,4 @@
 # Enter your alpaca api key and secret key below!
 
-key = "PKBXUW8M3KSFHL5GMM5P"
-secretKey = "Z8PgHEwwTjNx68U3OjQVVc12yYMUBf4PX3Fgkfvx"
+key = "ALPACA_API_KEY_HERE"
+secretKey = "ALPACA_API_SECRET_KEY_HERE"
