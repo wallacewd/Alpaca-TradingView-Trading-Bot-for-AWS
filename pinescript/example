@@ -1,0 +1,9 @@
+# Copy and paste the code below into your trading view alert message #
+
+{ 
+"symbol": "{{ticker}}", 
+"qty": "{{strategy.order.contracts}}", 
+"side": "{{strategy.order.action}}", 
+"type": "market",
+"time_in_force": "gtc" 
+}
